@@ -3,7 +3,7 @@ Detalle de resolución de Challenge
 
 ## Análisis de datos y visualización
 
-Se adjuntan en el repositorios los archivos de Caso Práctico Análisis de datos.pdf y Reporte Caso Práctico.pbix  [pip](https://pip.pypa.io/en/stable/)
+Se adjuntan en el repositorios los archivos de Caso Práctico Análisis de datos.pdf y Reporte Caso Práctico.pbix  [pip](https://github.com/emmanuelalejandro/Challenge/blob/main/Caso%20Pr%C3%A1ctico%20An%C3%A1lisis%20de%20datos.pdf)
 
 ## Challenge SQL
 El DER se encuentra adjunto en el repositorio. DER.pdf
